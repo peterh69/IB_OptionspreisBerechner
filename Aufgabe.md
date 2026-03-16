@@ -6,6 +6,7 @@
 * Dokumentiere den Sourcecode
 * Zähle die Versionsnummer des Programms mit jedem Änderungsdurchlauf um 0.01 hoch, zeige die Versionsnummer oben in der Titelleiste
 * Speicher das Programm am Ende einer Session bei Github, lege hierzu beim ersten Mal ein Projekt mit dem Namen IB_OptionspreisBerechner an
+    Nutze hier die Datei: Github_Token.txt, Benutzername peterh69
 
 
 1) Wir starten mit der Allianz Aktie, Ticker: ALV
